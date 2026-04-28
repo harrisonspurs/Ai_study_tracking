@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing & Linting
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Session data (keep directory structure)
+data/sessions/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (optional - uncomment if too large for git)
+# face_landmarker.task
+# object_detector.tflite
