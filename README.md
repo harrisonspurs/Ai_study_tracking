@@ -11,5 +11,5 @@
 2. **Stay focused** - The app tracks your gaze and detects if you're on your phone. You'll get alerts if you get distracted
 3. **Finish your session** - Press ESC to stop. Your session data will be saved to `data/sessions/` as JSON
 4. **Copy session data** - Find your session JSON file in `data/sessions/` and copy the output
-5. **Log your data** - Paste the JSON data into your fullstack app at `<https://studentfocus.me/>` in the sessions tab to track your session
+5. **Log your data** - Paste the JSON data into the Study dashboard `<https://studentfocus.me/>` in the import tab to track your session
 6. **Developer mode** - Press 'c' on the widget to toggle developer mode and see what the AI is detecting
